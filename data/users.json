@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Biswojit",
+      "surname": "Bal",
+      "email": "biswojitbal@gmail.com",
+      "issuedBookId": "1",
+      "issuedDate": "02-02-2025",
+      "returnDate": "05-06-2025",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "04-01-2025"
+    },
+    {
+      "id": "2",
+      "name": "Laxman Chinmayananda",
+      "surname": "sahoo",
+      "email": "laxmansahoo@gmail.com",
+      "issuedBookId": "2",
+      "issuedDate": "03-03-2025",
+      "returnDate": "04-04-2025",
+      "subscriptionType": "Standard",
+      "subscriptionDate": "04-02-2025"
+    },
+    {
+      "id": "3",
+      "name": "Rakesh",
+      "surname": "Mohanty",
+      "email": "rakesh@gmail.com",
+      "issuedBookId": "3",
+      "issuedDate": "01-05-2025",
+      "returnDate": "01-10-2025",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "01-04-2025"
+    },
+    {
+      "id": "4",
+      "name": "Piyush",
+      "surname": "Nayak",
+      "email": "piyush@gmail.com",
+      "issuedBookId": "4",
+      "issuedDate": "03-06-2025",
+      "returnDate": "07-10-2025",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "01-04-2025"
+    },
+    {
+      "id": "5",
+      "name": "Dipanshu",
+      "surname": "Mallik",
+      "email": "dipanshu@gmail.com",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "01-02-2025"
+    }
+  ]
+}

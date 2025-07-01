@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Artificial Intelligence: A Modern Approach",
+      "author": "Prateek Joshi",
+      "genre": "Technology",
+      "price": "25.99",
+      "publisher": "Pearson India"
+    },
+    {
+      "id": "2",
+      "name": "Python Programming for Beginners",
+      "author": "Ajay Singh",
+      "genre": "Programming",
+      "price": "19.99",
+      "publisher": "BPB Publications"
+    },
+    {
+      "id": "3",
+      "name": "Data Structures and Algorithms Made Easy",
+      "author": "Narasimha Karumanchi",
+      "genre": "Computer Science",
+      "price": "22.50",
+      "publisher": "CareerMonk Publications"
+    },
+    {
+      "id": "4",
+      "name": "Learn Java in 21 Days",
+      "author": "Kogent Learning Solutions",
+      "genre": "Programming",
+      "price": "17.75",
+      "publisher": "Dreamtech Press"
+    },
+    {
+      "id": "5",
+      "name": "Cloud Computing: Concepts, Technology & Architecture",
+      "author": "Thomas Erl",
+      "genre": "Technology",
+      "price": "29.00",
+      "publisher": "Prentice Hall India"
+    }
+  ]
+}
