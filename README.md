@@ -1,1 +1,1 @@
-This is a Book Record Management app.
+This is a Book Record Management app using DB.
